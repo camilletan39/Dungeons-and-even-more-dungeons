@@ -1,30 +1,46 @@
-# Dungeons-and-even-more-dungeons
+The Fable of the Lost - A Dungeon-Crawl/Escape/Puzzle Game
+
 Group members: Camille Tan, Miguel Magana, Sidney Chen
+
+
 
 Introduction
 
-  This program is a text based game that used to be common in the 80's when computers started becoming popular and common. The game is for entertainment purposes and to implement some of the data structures in class into the program.
+  This program is a text based game that is modernized into the 21st century. The game is for entertainment purposes and to implement some of the data structures and different libraries into the program. 
   
+Synopsis
+
+A man woke up in the middle of a dark room, the smell of dirt all around him. As he gets his head in check, he realizes he's lost. He hears a rumble from the distance, is it just an animal or something more dangerous? Is he going to escape the dark clutches of the dirt all around him? Push your imagination to the limits on what the man is going to do and find out, THE FABLE OF THE LOST.
+
+
 Features
 
-- It has a story line that is entertaining to the player.
+- It has a story line that is entertaining to the player, with many twists and turns along the way.
 - It has functions to type in that can exectute actions such as:
-  -Use which enables the player use an item
-  -Inventory which brings up a list of items owned by the player
-  -Search which allows the player to look for items
-- It has about 5 levels for the player to pass through and complete the game.
-- It has cutscenes before each new nevel/dungeon starts.
+  - Use which enables the player use an item
+  - Inventory which brings up a list of items owned by the player
+  - Search which allows the player to look for items
+- It has about 5* levels which is full of puzzles for the player to pass through and complete the game.
+- It has cutscenes before each new level/dungeon starts.
+
 
 Data Structures and Implementations
+
 - List ADT to store the items found by the player
-- Binary Search Tree to search for the commands entered by the player
+- Binary Search Tree to search for the commands entered by the player.
 - It has an OpenCV implementation to play videos between each level.
+- It has an ACM Graphics implementation to develop the design of the game world.
+
 
 Significance
 
-  Not all implementations of java have to be utilized for a particular problem. This program is designed to show the fun side of java and to entertain the user of the program. It is also an attempt to popularize once again the trend of text based games.
+  This program is designed to develop logical thinking, thinking outside of the box, and show the fun side of java and to entertain the user of the program. It is also an attempt to popularize once again the trend of text based games.
+  
   
 Division of Labor
 
 Each team member handles an aspect of the data structures.
 All team members work on the story line together and to implement the codes together.
+
+
+*Subject to change. Can make more.
