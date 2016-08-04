@@ -1,4 +1,4 @@
-The Fable of the Lost - A Dungeon-Crawl/Escape/Puzzle Game
+The Fable of the Lost - A RPG/Dungeon-Crawl/Escape/Puzzle Game
 
 Group members: Camille Tan, Miguel Magana, Sidney Chen
 
@@ -10,7 +10,9 @@ Introduction
   
 Synopsis
 
-A man woke up in the middle of a dark room, the smell of dirt all around him. As he gets his head in check, he realizes he's lost. He hears a rumble from the distance, is it just an animal or something more dangerous? Is he going to escape the dark clutches of the dirt all around him? Push your imagination to the limits on what the man is going to do and find out, THE FABLE OF THE LOST.
+A man woke up in the middle of a dark room, the smell of dirt all around him. As he gets his head in check, he realizes he's lost. He hears a rumble from the distance, is it just an animal or something more dangerous? Why is he alone in the dark room? Is he going to escape the dark clutches of the dirt all around him? Push your imagination to the limits on what the man is going to do and find out, THE FABLE OF THE LOST.
+
+NOTE: Inspired by Undertale and T.I.M.E. Stories.
 
 
 Features
