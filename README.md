@@ -2,7 +2,7 @@ The Fable of the Lost - A RPG/Dungeon-Crawl/Escape/Puzzle Game
 
 Group members: Camille Tan, Miguel Magana, Sidney Chen
 
-![alt tag](http://github.com/camilletan39/Dungeons-and-even-more-dungeons/edit/master/README.md/to/The Fable of the Lost.png)
+![alt tag](http://raw.github.com/camilletan39/Dungeons-and-even-more-dungeons/master/The Fable of the Lost.png)
 
 Introduction
 
